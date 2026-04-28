@@ -1,4 +1,4 @@
-This was a collaborative college group project originally developed with id1509 (username of Teammate) who had committed this earlier.
+This was a collaborative college group project originally developed with MiniPiku (username of Teammate) who had committed this earlier.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
